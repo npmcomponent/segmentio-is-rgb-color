@@ -1,7 +1,12 @@
 {
-  "name": "is-rgb-color",
-  "repository": "https://github.com/segmentio/is-rgb-color.git",
-  "version": "0.0.1",
+  "name": "segmentio-is-rgb-color",
   "description": "Loosely check whether a string is an RGB(A) color string.",
-  "keywords": ["validate", "rgb", "color"]
+  "version": "0.0.1",
+  "keywords": [
+    "validate",
+    "rgb",
+    "color"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
